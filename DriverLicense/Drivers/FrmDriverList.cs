@@ -14,16 +14,31 @@ namespace DriverLicense
 {
     public partial class FrmDriverList : Form
     {
-        DataTable _dtAllDrivers = clsDriver.GetAllDrivers();
+        DataTable _dtAllDrivers;
         private int _currentPage = 1;
-        private const int PAGE_SIZE = 60;
+        private const int _PAGE_SIZE = 60;
+        private int _totalPages = 0;
+        private int _totalRows = 0;
 
         private void LoadCurrentPage()
         {
-            clsUtil.LoadDataPage(_dtAllDrivers, dgvDrivers, _currentPage, PAGE_SIZE,
-               lblPageInfo, btnPrevious, btnNext);
-        }
+            _dtAllDrivers = clsDriver.GetAllDrivers2(_currentPage, _PAGE_SIZE);
+            clsUtil.LoadDataPage2(_dtAllDrivers, dgvDrivers, _currentPage, _PAGE_SIZE,
+               lblPageInfo, btnPrevious, btnNext, ref _totalRows, ref _totalPages);
 
+            dgvDrivers.DataSource = _dtAllDrivers;
+            dgvDrivers.Columns.RemoveAt(6); // Remove the 7th column (index 6)
+            lblRecords.Text = _totalRows.ToString();
+
+            if (_totalPages <= 1)
+            {
+                btnPrevious.Visible = false;
+                lblPageInfo.Visible = false;
+                btnNext.Visible = false;
+            }
+
+        }
+       
         public FrmDriverList()
         {
             InitializeComponent();
@@ -33,7 +48,6 @@ namespace DriverLicense
         {
             CbFilter.SelectedIndex = 0; // Set default filter to "All Drivers"
             LoadCurrentPage();
-            lblRecords.Text = _dtAllDrivers.Rows.Count.ToString();
             if (dgvDrivers.Rows.Count > 0)
             {
                 dgvDrivers.DefaultCellStyle.Font = new Font("Segoe UI", 10, FontStyle.Regular);

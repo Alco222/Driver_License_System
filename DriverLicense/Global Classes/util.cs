@@ -106,5 +106,38 @@ namespace DVLD.Classes
                 btnPrev.Enabled = btnNext.Enabled = false;
             }
         }
+
+        public static void LoadDataPage2(DataTable sourceTable, DataGridView dataGridView,
+                                int currentPage, int pageSize,
+                                Label labelInfo, Button btnPrev, Button btnNext,ref int totalRows,ref int totalPages)
+        {
+           
+            try
+            {
+                if (sourceTable.Rows.Count == 0)
+                {
+                    dataGridView.DataSource = null;
+                    labelInfo.Text = "0 / 0";
+                    return;
+                }
+                // 2) Total Rows
+                totalRows = Convert.ToInt32(sourceTable.Rows[0]["TotalRows"]);
+                totalPages = (int)Math.Ceiling((double)totalRows / pageSize);
+               
+                // 4) تحديث Label
+                labelInfo.Text = $"{currentPage} \\ {totalPages}";
+
+                // 5) تفعيل أو تعطيل الأزرار
+                btnPrev.Enabled = (currentPage > 1);
+                btnNext.Enabled = (currentPage < totalPages);
+            }
+            catch (Exception)
+            {
+                dataGridView.DataSource = sourceTable.Clone();
+                labelInfo.Text = "0 \\ 0";
+                btnPrev.Enabled = btnNext.Enabled = false;
+            }
+           
+        }
     }
 }

@@ -45,9 +45,11 @@
             // 
             this.groupBox1.Controls.Add(this.controlePersonDetails1);
             this.groupBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.groupBox1.Location = new System.Drawing.Point(6, 13);
+            this.groupBox1.Location = new System.Drawing.Point(9, 20);
+            this.groupBox1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(670, 280);
+            this.groupBox1.Padding = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.groupBox1.Size = new System.Drawing.Size(1071, 553);
             this.groupBox1.TabIndex = 0;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Person Information";
@@ -56,10 +58,10 @@
             // 
             this.controlePersonDetails1.BackColor = System.Drawing.Color.AliceBlue;
             this.controlePersonDetails1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.controlePersonDetails1.Location = new System.Drawing.Point(0, 20);
-            this.controlePersonDetails1.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            this.controlePersonDetails1.Location = new System.Drawing.Point(0, 31);
+            this.controlePersonDetails1.Margin = new System.Windows.Forms.Padding(6, 5, 6, 5);
             this.controlePersonDetails1.Name = "controlePersonDetails1";
-            this.controlePersonDetails1.Size = new System.Drawing.Size(650, 246);
+            this.controlePersonDetails1.Size = new System.Drawing.Size(1070, 378);
             this.controlePersonDetails1.TabIndex = 0;
             // 
             // groupBox2
@@ -71,9 +73,11 @@
             this.groupBox2.Controls.Add(this.label2);
             this.groupBox2.Controls.Add(this.label1);
             this.groupBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.groupBox2.Location = new System.Drawing.Point(6, 304);
+            this.groupBox2.Location = new System.Drawing.Point(17, 468);
+            this.groupBox2.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(670, 58);
+            this.groupBox2.Padding = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.groupBox2.Size = new System.Drawing.Size(1045, 89);
             this.groupBox2.TabIndex = 1;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Login Information";
@@ -82,9 +86,10 @@
             // 
             this.lblIsActive.AutoSize = true;
             this.lblIsActive.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblIsActive.Location = new System.Drawing.Point(580, 26);
+            this.lblIsActive.Location = new System.Drawing.Point(870, 40);
+            this.lblIsActive.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblIsActive.Name = "lblIsActive";
-            this.lblIsActive.Size = new System.Drawing.Size(39, 16);
+            this.lblIsActive.Size = new System.Drawing.Size(60, 25);
             this.lblIsActive.TabIndex = 5;
             this.lblIsActive.Text = "????";
             // 
@@ -92,9 +97,10 @@
             // 
             this.lblUserName.AutoSize = true;
             this.lblUserName.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblUserName.Location = new System.Drawing.Point(391, 26);
+            this.lblUserName.Location = new System.Drawing.Point(586, 40);
+            this.lblUserName.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblUserName.Name = "lblUserName";
-            this.lblUserName.Size = new System.Drawing.Size(39, 16);
+            this.lblUserName.Size = new System.Drawing.Size(60, 25);
             this.lblUserName.TabIndex = 4;
             this.lblUserName.Text = "????";
             // 
@@ -102,9 +108,10 @@
             // 
             this.lblUserID.AutoSize = true;
             this.lblUserID.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblUserID.Location = new System.Drawing.Point(175, 26);
+            this.lblUserID.Location = new System.Drawing.Point(262, 40);
+            this.lblUserID.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblUserID.Name = "lblUserID";
-            this.lblUserID.Size = new System.Drawing.Size(39, 16);
+            this.lblUserID.Size = new System.Drawing.Size(60, 25);
             this.lblUserID.TabIndex = 3;
             this.lblUserID.Text = "????";
             // 
@@ -112,9 +119,10 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(492, 26);
+            this.label3.Location = new System.Drawing.Point(738, 40);
+            this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(70, 16);
+            this.label3.Size = new System.Drawing.Size(102, 25);
             this.label3.TabIndex = 2;
             this.label3.Text = "IsActive :";
             // 
@@ -122,9 +130,10 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(277, 26);
+            this.label2.Location = new System.Drawing.Point(416, 40);
+            this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(89, 16);
+            this.label2.Size = new System.Drawing.Size(126, 25);
             this.label2.TabIndex = 1;
             this.label2.Text = "UserName :";
             // 
@@ -132,21 +141,23 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(96, 26);
+            this.label1.Location = new System.Drawing.Point(144, 40);
+            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(63, 16);
+            this.label1.Size = new System.Drawing.Size(91, 25);
             this.label1.TabIndex = 0;
             this.label1.Text = "UserID :";
             // 
             // ControleUserInfo
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.AliceBlue;
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
+            this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Name = "ControleUserInfo";
-            this.Size = new System.Drawing.Size(685, 376);
+            this.Size = new System.Drawing.Size(1093, 587);
             this.groupBox1.ResumeLayout(false);
             this.groupBox2.ResumeLayout(false);
             this.groupBox2.PerformLayout();

@@ -121,6 +121,11 @@ namespace DriverLicenseBusinessLayer
         public static DataTable GetAllDetainLicense()
         {
             return clsDetainedLicenseData.GetAllDetainLicense();
+        }
+
+        public static DataTable GetAllDetainLicense2(int currentPage, int PAGE_SIZE)
+        {
+            return clsDetainedLicenseData.GetAllDetainLicense2(currentPage,PAGE_SIZE);
 
         }
 

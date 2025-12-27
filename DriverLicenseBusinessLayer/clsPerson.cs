@@ -161,6 +161,11 @@ namespace DriverLicenseBusinessLayer
             return clsPersonData.GetAllPerson();
         }
 
+        public static DataTable GetAllPeople2(int currentPage, int PAGE_SIZE)
+        {
+            return clsPersonData.GetAllPerson2(currentPage,PAGE_SIZE);
+        }
+
         public static bool IsPersonExists(int PersonID)
         {
             return clsPersonData.IsPesonExists(PersonID);

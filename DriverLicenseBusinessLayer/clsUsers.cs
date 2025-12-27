@@ -151,6 +151,11 @@ namespace DriverLicenseBusinessLayer
             return clsDataUsers.GetAllUser();
         }
 
+        public static DataTable GetAllUser2(int currentPage, int PAGE_SIZE)
+        {
+            return clsDataUsers.GetAllUser2(currentPage,PAGE_SIZE);
+        }
+
         public static bool IsUserExists(int UserID)
         {
             return clsDataUsers.IsUserExists(UserID);

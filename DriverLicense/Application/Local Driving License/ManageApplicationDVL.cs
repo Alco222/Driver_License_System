@@ -16,15 +16,30 @@ namespace DriverLicense
 {
     public partial class ManageApplicationDVL : Form
     {
+       
+        private static int _currentPage = 1;
+        private const int _PAGE_SIZE = 60;
+        private int _totalPages = 0;
+        private int _totalRows = 0;
         DataTable _dtAllLocalDrivingLicenseApplications;
 
-        private int _currentPage = 1;
-        private const int PAGE_SIZE = 60;
-
-        private void LoadCurrentPage()
+        private void LoadCurrentPage2()
         {
-            clsUtil.LoadDataPage(_dtAllLocalDrivingLicenseApplications, dgvAllAplicationLocal, _currentPage, PAGE_SIZE,
-               lblPageInfo, btnPrevious, btnNext);
+            _dtAllLocalDrivingLicenseApplications = clsLocalDrivingLicenseApplication.GetAllLocalDrivingLicenseApplications2(_currentPage, _PAGE_SIZE);
+            clsUtil.LoadDataPage2(_dtAllLocalDrivingLicenseApplications, dgvAllAplicationLocal, _currentPage, _PAGE_SIZE,
+               lblPageInfo, btnPrevious, btnNext, ref _totalRows, ref _totalPages);
+
+            dgvAllAplicationLocal.DataSource = _dtAllLocalDrivingLicenseApplications;
+            dgvAllAplicationLocal.Columns.RemoveAt(7); // Remove the 8th column (index 7)
+            lblRecords.Text = _totalRows.ToString();
+
+            if (_totalPages <= 1)
+            {
+                btnPrevious.Visible = false;
+                lblPageInfo.Visible = false;
+                btnNext.Visible = false;
+            }
+
         }
 
         public ManageApplicationDVL()
@@ -35,16 +50,12 @@ namespace DriverLicense
 
         private void ManageApplicationDVL_Load(object sender, EventArgs e)
         {
-            _dtAllLocalDrivingLicenseApplications = clsLocalDrivingLicenseApplication.GetAllLocalDrivingLicenseApplications();
-            LoadCurrentPage();
-
-            lblRecords.Text = _dtAllLocalDrivingLicenseApplications.Rows.Count.ToString();
+            LoadCurrentPage2();
 
             if (dgvAllAplicationLocal.Rows.Count > 0)
             {
                 dgvAllAplicationLocal.DefaultCellStyle.Font = new Font("Segoe UI", 10, FontStyle.Regular);
-            
-
+              
                 dgvAllAplicationLocal.Columns[0].HeaderText = "L.D.L.AppID";
                 dgvAllAplicationLocal.Columns[0].Width = 100;
                 dgvAllAplicationLocal.Columns[0].HeaderCell.Style.Alignment = DataGridViewContentAlignment.MiddleCenter;
@@ -166,7 +177,7 @@ namespace DriverLicense
                 _dtAllLocalDrivingLicenseApplications.DefaultView.RowFilter = "";
 
 
-                LoadCurrentPage();
+                LoadCurrentPage2();
                 btnPrevious.Visible = true;
                 btnNext.Visible = true;
                 lblRecords.Text = _dtAllLocalDrivingLicenseApplications.Rows.Count.ToString();
@@ -382,13 +393,13 @@ namespace DriverLicense
         private void btnPrevious_Click(object sender, EventArgs e)
         {
             _currentPage--;
-            LoadCurrentPage();
+            LoadCurrentPage2();
         }
 
         private void btnNext_Click(object sender, EventArgs e)
         {
             _currentPage++;
-            LoadCurrentPage();
+            LoadCurrentPage2();
         }
     }
 }

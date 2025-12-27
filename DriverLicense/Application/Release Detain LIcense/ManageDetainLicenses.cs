@@ -16,13 +16,28 @@ namespace DriverLicense.Application.Renew_Local_Drinving_LIcense
     public partial class ManageDetainLicenses : Form
     {
         DataTable _dtDetainLicense;
-        private int _currentPage = 1;
-        private const int PAGE_SIZE = 60;
+        private static int _currentPage = 1;
+        private const int _PAGE_SIZE = 60;
+        private int _totalPages = 0;
+        private int _totalRows = 0;
 
         private void LoadCurrentPage()
         {
-            clsUtil.LoadDataPage(_dtDetainLicense, dgvAllDetainLicense, _currentPage, PAGE_SIZE,
-               lblPageInfo, btnPrevious,btnNext);
+            _dtDetainLicense = clsDetainedLicense.GetAllDetainLicense2(_currentPage, _PAGE_SIZE);
+            clsUtil.LoadDataPage2(_dtDetainLicense, dgvAllDetainLicense, _currentPage, _PAGE_SIZE,
+               lblPageInfo, btnPrevious, btnNext, ref _totalRows, ref _totalPages);
+
+            dgvAllDetainLicense.DataSource = _dtDetainLicense;
+            dgvAllDetainLicense.Columns.RemoveAt(9); // Remove the 10th column (index 9)
+            lblRecords.Text = _totalRows.ToString();
+
+            if (_totalPages <= 1)
+            {
+                btnPrevious.Visible = false;
+                lblPageInfo.Visible = false;
+                btnNext.Visible = false;
+            }
+
         }
 
         public ManageDetainLicenses()
@@ -33,17 +48,12 @@ namespace DriverLicense.Application.Renew_Local_Drinving_LIcense
         private void ManageDetainLicenses_Load(object sender, EventArgs e)
         {
             cbFilter.SelectedIndex = 0; // Set default filter to "All Detain Licenses"
-
-            _dtDetainLicense = clsDetainedLicense.GetAllDetainLicense();
             LoadCurrentPage();
-            lblRecords.Text = _dtDetainLicense.Rows.Count.ToString();
-
+            
             if (dgvAllDetainLicense.Columns.Count > 0)
             {
                 dgvAllDetainLicense.DefaultCellStyle.Font = new Font("Segoe UI", 10, FontStyle.Regular);
                 
-      
-
                 dgvAllDetainLicense.Columns[0].HeaderText = "D.ID";
                 dgvAllDetainLicense.Columns[0].Width = 55;
                 dgvAllDetainLicense.Columns[0].HeaderCell.Style.Alignment = DataGridViewContentAlignment.MiddleCenter;

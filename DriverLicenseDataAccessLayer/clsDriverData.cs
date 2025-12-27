@@ -127,6 +127,43 @@ namespace DriverLicenseDataAccessLayer
             return dt;
         }
 
+        public static DataTable GetAllDrivers2(int currentPage, int PAGE_SIZE)
+        {
+            DataTable dt = new DataTable();
+
+
+            using (SqlConnection connection = new SqlConnection(DataAccessSettings.connectionString))
+            {
+                using (SqlCommand command = new SqlCommand("Drivers.SP_GetAllDrivers_DVLD", connection))
+                {
+                    command.CommandType = CommandType.StoredProcedure;
+                    command.Parameters.Add("@PageNumber", SqlDbType.Int).Value = currentPage;
+                    command.Parameters.Add("@RowsPerPage", SqlDbType.Int).Value = PAGE_SIZE;
+
+                    try
+                    {
+                        connection.Open();
+                        using (SqlDataReader reader = command.ExecuteReader())
+                        {
+                            if (reader.HasRows)
+                            {
+                                dt.Load(reader);
+
+
+                            }
+                        }
+                    }
+                    catch (Exception ex)
+                    {
+                        //Handler Exception Errors.
+                        LogException.logException(ex.Message, EventLogEntryType.Error);
+                    }
+                }
+            }
+            return dt;
+        }
+
+
         public static int AddNewDriver(int PersonID, int CreatedByUserID)
         {
             int DriverID = -1;

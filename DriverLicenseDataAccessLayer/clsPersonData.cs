@@ -188,6 +188,42 @@ namespace DriverLicenseDataAccessLayer
             return dt;
         }
 
+        public static DataTable GetAllPerson2(int currentPage,int PAGE_SIZE)
+        {
+            DataTable dt = new DataTable();
+            
+
+            using (SqlConnection connection = new SqlConnection(DataAccessSettings.connectionString))
+            {
+                using (SqlCommand command = new SqlCommand("People.SP_GetAllPerson2_DVLD", connection))
+                {
+                    command.CommandType = CommandType.StoredProcedure;
+                    command.Parameters.Add("@PageNumber", SqlDbType.Int).Value = currentPage;
+                    command.Parameters.Add("@RowsPerPage", SqlDbType.Int).Value = PAGE_SIZE;
+
+                    try
+                    {
+                        connection.Open();
+                        using (SqlDataReader reader = command.ExecuteReader())
+                        {
+                            if (reader.HasRows)
+                            {
+                                dt.Load(reader);
+
+                              
+                            }
+                        }
+                    }
+                    catch (Exception ex)
+                    {
+                        //Handler Exception Errors.
+                        LogException.logException(ex.Message, EventLogEntryType.Error);
+                    }
+                }
+            }
+            return dt;
+        }
+
         public static bool GetPersonByID(int PersonID, ref string FirstName, ref string SecondName, ref string ThirdName,
             ref string LastName, ref string NationalNo, ref byte Gender, ref string Email, ref string Address,
             ref string Phone, ref DateTime BirthDate, ref int NationalityID, ref string ImagePersonel)

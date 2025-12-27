@@ -247,6 +247,10 @@ namespace DriverLicense
 
         private void ControlAddEditPersoneInfo_Load(object sender, EventArgs e)
         {
+            // إذا نحن في وقت التصميم (Designer) فلا ننفذ أي كود مرتبط بالـ DB
+            if (this.DesignMode || LicenseManager.UsageMode == LicenseUsageMode.Designtime)
+                return;
+
             _ResetDefualtValues();
 
             if(_Mode == enMode.Update)

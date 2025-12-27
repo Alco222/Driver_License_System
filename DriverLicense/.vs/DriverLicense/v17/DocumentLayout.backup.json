@@ -3,35 +3,54 @@
   "WorkspaceRootPath": "D:\\sd\\New folder (2)\\Cours 19\\Poject Vrie Using\\AppDVLDvelopeLastV - Working Version\\DriverLicense\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BF529C01-77D2-4BDF-8464-27F60D0AA9EF}|..\\DriverLicenseDataAccessLayer\\DriverLicenseDataAccessLayer.csproj|d:\\sd\\new folder (2)\\cours 19\\poject vrie using\\appdvldvelopelastv - working version\\driverlicensedataaccesslayer\\clspersondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|d:\\sd\\new folder (2)\\cours 19\\poject vrie using\\appdvldvelopelastv - working version\\driverlicense\\users\\manageuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|solutionrelative:users\\manageuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|d:\\sd\\new folder (2)\\cours 19\\poject vrie using\\appdvldvelopelastv - working version\\driverlicense\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|d:\\sd\\new folder (2)\\cours 19\\poject vrie using\\appdvldvelopelastv - working version\\driverlicense\\users\\manageuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|solutionrelative:users\\manageuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|d:\\sd\\new folder (2)\\cours 19\\poject vrie using\\appdvldvelopelastv - working version\\driverlicense\\person\\controles\\ctrlpersoncardwithfilter1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|solutionrelative:person\\controles\\ctrlpersoncardwithfilter1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|d:\\sd\\new folder (2)\\cours 19\\poject vrie using\\appdvldvelopelastv - working version\\driverlicense\\users\\frmshowuserdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|solutionrelative:users\\frmshowuserdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|d:\\sd\\new folder (2)\\cours 19\\poject vrie using\\appdvldvelopelastv - working version\\driverlicense\\person\\controles\\ctrlpersoncardwithfilter1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|solutionrelative:person\\controles\\ctrlpersoncardwithfilter1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|d:\\sd\\new folder (2)\\cours 19\\poject vrie using\\appdvldvelopelastv - working version\\driverlicense\\users\\frmshowuserdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|solutionrelative:users\\frmshowuserdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3FEFEEF7-E24F-4B64-A457-8DE7A4D65764}|..\\DriverLicenseBusinessLayer\\DriverLicenseBusinessLayer.csproj|d:\\sd\\new folder (2)\\cours 19\\poject vrie using\\appdvldvelopelastv - working version\\driverlicensebusinesslayer\\clsperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|d:\\sd\\new folder (2)\\cours 19\\poject vrie using\\appdvldvelopelastv - working version\\driverlicense\\users\\controles\\controleuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|solutionrelative:users\\controles\\controleuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF529C01-77D2-4BDF-8464-27F60D0AA9EF}|..\\DriverLicenseDataAccessLayer\\DriverLicenseDataAccessLayer.csproj|d:\\sd\\new folder (2)\\cours 19\\poject vrie using\\appdvldvelopelastv - working version\\driverlicensedataaccesslayer\\dataaccesssettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|d:\\sd\\new folder (2)\\cours 19\\poject vrie using\\appdvldvelopelastv - working version\\driverlicense\\users\\controles\\controleuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|solutionrelative:users\\controles\\controleuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|d:\\sd\\new folder (2)\\cours 19\\poject vrie using\\appdvldvelopelastv - working version\\driverlicense\\person\\frmaddeditpersoninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|solutionrelative:person\\frmaddeditpersoninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|d:\\sd\\new folder (2)\\cours 19\\poject vrie using\\appdvldvelopelastv - working version\\driverlicense\\person\\frmaddeditpersoninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|solutionrelative:person\\frmaddeditpersoninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|d:\\sd\\new folder (2)\\cours 19\\poject vrie using\\appdvldvelopelastv - working version\\driverlicense\\person\\controles\\controladdeditpersoneinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|solutionrelative:person\\controles\\controladdeditpersoneinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|d:\\sd\\new folder (2)\\cours 19\\poject vrie using\\appdvldvelopelastv - working version\\driverlicense\\person\\controles\\controladdeditpersoneinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|solutionrelative:person\\controles\\controladdeditpersoneinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BF529C01-77D2-4BDF-8464-27F60D0AA9EF}|..\\DriverLicenseDataAccessLayer\\DriverLicenseDataAccessLayer.csproj|d:\\sd\\new folder (2)\\cours 19\\poject vrie using\\appdvldvelopelastv - working version\\driverlicensedataaccesslayer\\clsapplicationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF529C01-77D2-4BDF-8464-27F60D0AA9EF}|..\\DriverLicenseDataAccessLayer\\DriverLicenseDataAccessLayer.csproj|d:\\sd\\new folder (2)\\cours 19\\poject vrie using\\appdvldvelopelastv - working version\\driverlicensedataaccesslayer\\clsdatausers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|d:\\sd\\new folder (2)\\cours 19\\poject vrie using\\appdvldvelopelastv - working version\\driverlicense\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF529C01-77D2-4BDF-8464-27F60D0AA9EF}|..\\DriverLicenseDataAccessLayer\\DriverLicenseDataAccessLayer.csproj|d:\\sd\\new folder (2)\\cours 19\\poject vrie using\\appdvldvelopelastv - working version\\driverlicensedataaccesslayer\\dataaccesssettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -41,7 +60,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -69,117 +88,167 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ctrlPersonCardWithFilter1.cs",
-              "DocumentMoniker": "D:\\sd\\New folder (2)\\Cours 19\\Poject Vrie Using\\AppDVLDvelopeLastV - Working Version\\DriverLicense\\Person\\Controles\\ctrlPersonCardWithFilter1.cs",
-              "RelativeDocumentMoniker": "Person\\Controles\\ctrlPersonCardWithFilter1.cs",
-              "ToolTip": "D:\\sd\\New folder (2)\\Cours 19\\Poject Vrie Using\\AppDVLDvelopeLastV - Working Version\\DriverLicense\\Person\\Controles\\ctrlPersonCardWithFilter1.cs",
-              "RelativeToolTip": "Person\\Controles\\ctrlPersonCardWithFilter1.cs",
-              "ViewState": "AgIAAFIAAAAAAAAAAADwv1kAAAA5AAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ManageUser.cs",
+              "DocumentMoniker": "D:\\sd\\New folder (2)\\Cours 19\\Poject Vrie Using\\AppDVLDvelopeLastV - Working Version\\DriverLicense\\Users\\ManageUser.cs",
+              "RelativeDocumentMoniker": "Users\\ManageUser.cs",
+              "ToolTip": "D:\\sd\\New folder (2)\\Cours 19\\Poject Vrie Using\\AppDVLDvelopeLastV - Working Version\\DriverLicense\\Users\\ManageUser.cs",
+              "RelativeToolTip": "Users\\ManageUser.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAApwB8AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T21:20:50.276Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ctrlPersonCardWithFilter1.cs [Design]",
-              "DocumentMoniker": "D:\\sd\\New folder (2)\\Cours 19\\Poject Vrie Using\\AppDVLDvelopeLastV - Working Version\\DriverLicense\\Person\\Controles\\ctrlPersonCardWithFilter1.cs",
-              "RelativeDocumentMoniker": "Person\\Controles\\ctrlPersonCardWithFilter1.cs",
-              "ToolTip": "D:\\sd\\New folder (2)\\Cours 19\\Poject Vrie Using\\AppDVLDvelopeLastV - Working Version\\DriverLicense\\Person\\Controles\\ctrlPersonCardWithFilter1.cs [Design]",
-              "RelativeToolTip": "Person\\Controles\\ctrlPersonCardWithFilter1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T21:20:45.243Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DataAccessSettings.cs",
-              "DocumentMoniker": "D:\\sd\\New folder (2)\\Cours 19\\Poject Vrie Using\\AppDVLDvelopeLastV - Working Version\\DriverLicenseDataAccessLayer\\DataAccessSettings.cs",
-              "RelativeDocumentMoniker": "..\\DriverLicenseDataAccessLayer\\DataAccessSettings.cs",
-              "ToolTip": "D:\\sd\\New folder (2)\\Cours 19\\Poject Vrie Using\\AppDVLDvelopeLastV - Working Version\\DriverLicenseDataAccessLayer\\DataAccessSettings.cs",
-              "RelativeToolTip": "..\\DriverLicenseDataAccessLayer\\DataAccessSettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T20:56:00.98Z",
+              "WhenOpened": "2025-12-14T13:51:50.471Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\sd\\New folder (2)\\Cours 19\\Poject Vrie Using\\AppDVLDvelopeLastV - Working Version\\DriverLicense\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\sd\\New folder (2)\\Cours 19\\Poject Vrie Using\\AppDVLDvelopeLastV - Working Version\\DriverLicense\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Title": "ManageUser.cs [Design]",
+              "DocumentMoniker": "D:\\sd\\New folder (2)\\Cours 19\\Poject Vrie Using\\AppDVLDvelopeLastV - Working Version\\DriverLicense\\Users\\ManageUser.cs",
+              "RelativeDocumentMoniker": "Users\\ManageUser.cs",
+              "ToolTip": "D:\\sd\\New folder (2)\\Cours 19\\Poject Vrie Using\\AppDVLDvelopeLastV - Working Version\\DriverLicense\\Users\\ManageUser.cs [Design]",
+              "RelativeToolTip": "Users\\ManageUser.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T20:21:10.284Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-14T13:51:43.46Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "clsPerson.cs",
-              "DocumentMoniker": "D:\\sd\\New folder (2)\\Cours 19\\Poject Vrie Using\\AppDVLDvelopeLastV - Working Version\\DriverLicenseBusinessLayer\\clsPerson.cs",
-              "RelativeDocumentMoniker": "..\\DriverLicenseBusinessLayer\\clsPerson.cs",
-              "ToolTip": "D:\\sd\\New folder (2)\\Cours 19\\Poject Vrie Using\\AppDVLDvelopeLastV - Working Version\\DriverLicenseBusinessLayer\\clsPerson.cs",
-              "RelativeToolTip": "..\\DriverLicenseBusinessLayer\\clsPerson.cs",
-              "ViewState": "AgIAAH8AAAAAAAAAAAA5wI8AAAAAAAAAAAAAAA==",
+              "Title": "ControleUserInfo.cs",
+              "DocumentMoniker": "D:\\sd\\New folder (2)\\Cours 19\\Poject Vrie Using\\AppDVLDvelopeLastV - Working Version\\DriverLicense\\Users\\Controles\\ControleUserInfo.cs",
+              "RelativeDocumentMoniker": "Users\\Controles\\ControleUserInfo.cs",
+              "ToolTip": "D:\\sd\\New folder (2)\\Cours 19\\Poject Vrie Using\\AppDVLDvelopeLastV - Working Version\\DriverLicense\\Users\\Controles\\ControleUserInfo.cs",
+              "RelativeToolTip": "Users\\Controles\\ControleUserInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T20:15:38.74Z",
+              "WhenOpened": "2025-12-14T13:42:09.328Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ControlAddEditPersoneInfo.cs",
-              "DocumentMoniker": "D:\\sd\\New folder (2)\\Cours 19\\Poject Vrie Using\\AppDVLDvelopeLastV - Working Version\\DriverLicense\\Person\\Controles\\ControlAddEditPersoneInfo.cs",
-              "RelativeDocumentMoniker": "Person\\Controles\\ControlAddEditPersoneInfo.cs",
-              "ToolTip": "D:\\sd\\New folder (2)\\Cours 19\\Poject Vrie Using\\AppDVLDvelopeLastV - Working Version\\DriverLicense\\Person\\Controles\\ControlAddEditPersoneInfo.cs",
-              "RelativeToolTip": "Person\\Controles\\ControlAddEditPersoneInfo.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAuwAABAAAIAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "ControleUserInfo.cs [Design]",
+              "DocumentMoniker": "D:\\sd\\New folder (2)\\Cours 19\\Poject Vrie Using\\AppDVLDvelopeLastV - Working Version\\DriverLicense\\Users\\Controles\\ControleUserInfo.cs",
+              "RelativeDocumentMoniker": "Users\\Controles\\ControleUserInfo.cs",
+              "ToolTip": "D:\\sd\\New folder (2)\\Cours 19\\Poject Vrie Using\\AppDVLDvelopeLastV - Working Version\\DriverLicense\\Users\\Controles\\ControleUserInfo.cs [Design]",
+              "RelativeToolTip": "Users\\Controles\\ControleUserInfo.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T13:31:19.233Z",
+              "WhenOpened": "2025-12-14T13:42:07.54Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmShowUserDetails.cs",
+              "DocumentMoniker": "D:\\sd\\New folder (2)\\Cours 19\\Poject Vrie Using\\AppDVLDvelopeLastV - Working Version\\DriverLicense\\Users\\frmShowUserDetails.cs",
+              "RelativeDocumentMoniker": "Users\\frmShowUserDetails.cs",
+              "ToolTip": "D:\\sd\\New folder (2)\\Cours 19\\Poject Vrie Using\\AppDVLDvelopeLastV - Working Version\\DriverLicense\\Users\\frmShowUserDetails.cs",
+              "RelativeToolTip": "Users\\frmShowUserDetails.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T13:41:59.348Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "clsPersonData.cs",
-              "DocumentMoniker": "D:\\sd\\New folder (2)\\Cours 19\\Poject Vrie Using\\AppDVLDvelopeLastV - Working Version\\DriverLicenseDataAccessLayer\\clsPersonData.cs",
-              "RelativeDocumentMoniker": "..\\DriverLicenseDataAccessLayer\\clsPersonData.cs",
-              "ToolTip": "D:\\sd\\New folder (2)\\Cours 19\\Poject Vrie Using\\AppDVLDvelopeLastV - Working Version\\DriverLicenseDataAccessLayer\\clsPersonData.cs",
-              "RelativeToolTip": "..\\DriverLicenseDataAccessLayer\\clsPersonData.cs",
-              "ViewState": "AgIAAJ8AAAAAAAAAAIA5wMAAAABmAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "frmShowUserDetails.cs [Design]",
+              "DocumentMoniker": "D:\\sd\\New folder (2)\\Cours 19\\Poject Vrie Using\\AppDVLDvelopeLastV - Working Version\\DriverLicense\\Users\\frmShowUserDetails.cs",
+              "RelativeDocumentMoniker": "Users\\frmShowUserDetails.cs",
+              "ToolTip": "D:\\sd\\New folder (2)\\Cours 19\\Poject Vrie Using\\AppDVLDvelopeLastV - Working Version\\DriverLicense\\Users\\frmShowUserDetails.cs [Design]",
+              "RelativeToolTip": "Users\\frmShowUserDetails.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T11:09:25.956Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-14T13:41:57.101Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "clsDataUsers.cs",
-              "DocumentMoniker": "D:\\sd\\New folder (2)\\Cours 19\\Poject Vrie Using\\AppDVLDvelopeLastV - Working Version\\DriverLicenseDataAccessLayer\\clsDataUsers.cs",
-              "RelativeDocumentMoniker": "..\\DriverLicenseDataAccessLayer\\clsDataUsers.cs",
-              "ToolTip": "D:\\sd\\New folder (2)\\Cours 19\\Poject Vrie Using\\AppDVLDvelopeLastV - Working Version\\DriverLicenseDataAccessLayer\\clsDataUsers.cs",
-              "RelativeToolTip": "..\\DriverLicenseDataAccessLayer\\clsDataUsers.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAqwBMAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T10:53:32.353Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "clsApplicationData.cs",
               "DocumentMoniker": "D:\\sd\\New folder (2)\\Cours 19\\Poject Vrie Using\\AppDVLDvelopeLastV - Working Version\\DriverLicenseDataAccessLayer\\clsApplicationData.cs",
               "RelativeDocumentMoniker": "..\\DriverLicenseDataAccessLayer\\clsApplicationData.cs",
               "ToolTip": "D:\\sd\\New folder (2)\\Cours 19\\Poject Vrie Using\\AppDVLDvelopeLastV - Working Version\\DriverLicenseDataAccessLayer\\clsApplicationData.cs",
               "RelativeToolTip": "..\\DriverLicenseDataAccessLayer\\clsApplicationData.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAiwBMAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwBcAAABjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T10:21:46.55Z"
+              "WhenOpened": "2025-12-14T13:08:32.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ControlAddEditPersoneInfo.cs [Design]",
+              "DocumentMoniker": "D:\\sd\\New folder (2)\\Cours 19\\Poject Vrie Using\\AppDVLDvelopeLastV - Working Version\\DriverLicense\\Person\\Controles\\ControlAddEditPersoneInfo.cs",
+              "RelativeDocumentMoniker": "Person\\Controles\\ControlAddEditPersoneInfo.cs",
+              "ToolTip": "D:\\sd\\New folder (2)\\Cours 19\\Poject Vrie Using\\AppDVLDvelopeLastV - Working Version\\DriverLicense\\Person\\Controles\\ControlAddEditPersoneInfo.cs [Design]",
+              "RelativeToolTip": "Person\\Controles\\ControlAddEditPersoneInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T12:53:07.746Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmAddEditPersonInfo.cs [Design]",
+              "DocumentMoniker": "D:\\sd\\New folder (2)\\Cours 19\\Poject Vrie Using\\AppDVLDvelopeLastV - Working Version\\DriverLicense\\Person\\FrmAddEditPersonInfo.cs",
+              "RelativeDocumentMoniker": "Person\\FrmAddEditPersonInfo.cs",
+              "ToolTip": "D:\\sd\\New folder (2)\\Cours 19\\Poject Vrie Using\\AppDVLDvelopeLastV - Working Version\\DriverLicense\\Person\\FrmAddEditPersonInfo.cs [Design]",
+              "RelativeToolTip": "Person\\FrmAddEditPersonInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T12:53:22.91Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\sd\\New folder (2)\\Cours 19\\Poject Vrie Using\\AppDVLDvelopeLastV - Working Version\\DriverLicense\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "D:\\sd\\New folder (2)\\Cours 19\\Poject Vrie Using\\AppDVLDvelopeLastV - Working Version\\DriverLicense\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-12-14T12:55:59.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ControlAddEditPersoneInfo.cs",
+              "DocumentMoniker": "D:\\sd\\New folder (2)\\Cours 19\\Poject Vrie Using\\AppDVLDvelopeLastV - Working Version\\DriverLicense\\Person\\Controles\\ControlAddEditPersoneInfo.cs",
+              "RelativeDocumentMoniker": "Person\\Controles\\ControlAddEditPersoneInfo.cs",
+              "ToolTip": "D:\\sd\\New folder (2)\\Cours 19\\Poject Vrie Using\\AppDVLDvelopeLastV - Working Version\\DriverLicense\\Person\\Controles\\ControlAddEditPersoneInfo.cs",
+              "RelativeToolTip": "Person\\Controles\\ControlAddEditPersoneInfo.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAqwPsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T12:57:15.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmAddEditPersonInfo.cs",
+              "DocumentMoniker": "D:\\sd\\New folder (2)\\Cours 19\\Poject Vrie Using\\AppDVLDvelopeLastV - Working Version\\DriverLicense\\Person\\FrmAddEditPersonInfo.cs",
+              "RelativeDocumentMoniker": "Person\\FrmAddEditPersonInfo.cs",
+              "ToolTip": "D:\\sd\\New folder (2)\\Cours 19\\Poject Vrie Using\\AppDVLDvelopeLastV - Working Version\\DriverLicense\\Person\\FrmAddEditPersonInfo.cs",
+              "RelativeToolTip": "Person\\FrmAddEditPersonInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T12:57:00.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DataAccessSettings.cs",
+              "DocumentMoniker": "D:\\sd\\New folder (2)\\Cours 19\\Poject Vrie Using\\AppDVLDvelopeLastV - Working Version\\DriverLicenseDataAccessLayer\\DataAccessSettings.cs",
+              "RelativeDocumentMoniker": "..\\DriverLicenseDataAccessLayer\\DataAccessSettings.cs",
+              "ToolTip": "D:\\sd\\New folder (2)\\Cours 19\\Poject Vrie Using\\AppDVLDvelopeLastV - Working Version\\DriverLicenseDataAccessLayer\\DataAccessSettings.cs",
+              "RelativeToolTip": "..\\DriverLicenseDataAccessLayer\\DataAccessSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T12:52:09.015Z",
+              "EditorCaption": ""
             }
           ]
         }

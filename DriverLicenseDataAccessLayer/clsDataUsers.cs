@@ -161,6 +161,43 @@ namespace DriverLicenseDataAccessLayer
             return dt;
         }
 
+        public static DataTable GetAllUser2(int currentPage, int PAGE_SIZE)
+        {
+            DataTable dt = new DataTable();
+
+
+            using (SqlConnection connection = new SqlConnection(DataAccessSettings.connectionString))
+            {
+                using (SqlCommand command = new SqlCommand("Users.SP_GetAllUser_DVLD", connection))
+                {
+                    command.CommandType = CommandType.StoredProcedure;
+                    command.Parameters.Add("@PageNumber", SqlDbType.Int).Value = currentPage;
+                    command.Parameters.Add("@RowsPerPage", SqlDbType.Int).Value = PAGE_SIZE;
+
+                    try
+                    {
+                        connection.Open();
+                        using (SqlDataReader reader = command.ExecuteReader())
+                        {
+                            if (reader.HasRows)
+                            {
+                                dt.Load(reader);
+
+
+                            }
+                        }
+                    }
+                    catch (Exception ex)
+                    {
+                        //Handler Exception Errors.
+                        LogException.logException(ex.Message, EventLogEntryType.Error);
+                    }
+                }
+            }
+            return dt;
+        }
+
+
         public static bool GetUserByUserID(int UserID, ref string UserName, ref string Password, ref bool IsActive, ref int PersonID)
         {
             bool IsFound = false;

@@ -19,15 +19,30 @@ namespace DriverLicense
     // It displays user information in a DataGridView and provides various user management functionalities.
     public partial class ManageUser : Form
     {
-         DataTable _dtAllUser;
-
-        private int _currentPage = 1;
-        private const int PAGE_SIZE = 60;
-
+        
+        private DataTable _dtAllUser;
+        private static int _currentPage = 1;
+        private const int _PAGE_SIZE = 60;
+        private int _totalPages = 0;
+        private int _totalRows = 0;
+        
         private void LoadCurrentPage()
         {
-            clsUtil.LoadDataPage(_dtAllUser, dgvAllUser, _currentPage, PAGE_SIZE,
-               lblPageInfo, btnPrevious,btnNext);
+
+            _dtAllUser = clsUsers.GetAllUser2(_currentPage, _PAGE_SIZE);
+            clsUtil.LoadDataPage2(_dtAllUser, dgvAllUser, _currentPage, _PAGE_SIZE,
+               lblPageInfo, btnPrevious, btnNext, ref _totalRows, ref _totalPages);
+
+            dgvAllUser.DataSource = _dtAllUser;
+            dgvAllUser.Columns.RemoveAt(5); // Remove the 6th column (index 5)
+            lblRecords.Text = _totalRows.ToString();
+
+            if (_totalPages <= 1)
+            {
+                btnPrevious.Visible = false;
+                lblPageInfo.Visible = false;
+                btnNext.Visible = false;
+            }
         }
 
         public ManageUser()
@@ -37,15 +52,13 @@ namespace DriverLicense
 
         private void ManageUser_Load(object sender, EventArgs e)
         {
-            _dtAllUser = clsUsers.GetAllUser();
             LoadCurrentPage();
             cbFilter.SelectedIndex = 0;
-            lblRecords.Text = _dtAllUser.Rows.Count.ToString();
-
+           
             if(dgvAllUser.Rows.Count > 0)
             {
                 dgvAllUser.DefaultCellStyle.Font = new Font("Segoe UI", 10, FontStyle.Regular);
-
+                
                 dgvAllUser.Columns[0].HeaderText = "User ID";
                 dgvAllUser.Columns[0].Width = 90;
                 dgvAllUser.Columns[0].DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleCenter;

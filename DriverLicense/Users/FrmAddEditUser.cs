@@ -127,7 +127,7 @@ namespace DriverLicense
             if (ctrlPersonCardWithFilter11.PersonID != -1)
             {
 
-                if (clsUsers.IsUserExists(ctrlPersonCardWithFilter11.PersonID))
+                if (clsUsers.IsUserExistsByPseronID(ctrlPersonCardWithFilter11.PersonID))
                 {
 
                     MessageBox.Show("Selected Person already has a user, choose another one.", "Select another Person", MessageBoxButtons.OK, MessageBoxIcon.Error);

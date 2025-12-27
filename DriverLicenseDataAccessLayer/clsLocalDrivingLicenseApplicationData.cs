@@ -128,6 +128,42 @@ namespace DriverLicenseDataAccessLayer
             return dt;
         }
 
+        public static DataTable GetAllLocalDrivingLicenseApplications2(int currentPage, int PAGE_SIZE)
+        {
+            DataTable dt = new DataTable();
+
+            using (SqlConnection connection = new SqlConnection(DataAccessSettings.connectionString))
+            {
+                using (SqlCommand command = new SqlCommand("AppDVL.SP_GetAllApplication_DVLD", connection))
+                {
+                    command.CommandType = CommandType.StoredProcedure;
+                    command.Parameters.Add("@PageNumber", SqlDbType.Int).Value = currentPage;
+                    command.Parameters.Add("@RowsPerPage", SqlDbType.Int).Value = PAGE_SIZE;
+
+                    try
+                    {
+                        connection.Open();
+                        using (SqlDataReader reader = command.ExecuteReader())
+                        {
+                            if (reader.HasRows)
+                            {
+                                dt.Load(reader);
+
+
+                            }
+                        }
+                    }
+                    catch (Exception ex)
+                    {
+                        //Handler Exception Errors.
+                        LogException.logException(ex.Message, EventLogEntryType.Error);
+                    }
+                }
+            }
+            return dt;
+        }
+
+
         public static int AddNewLocalDrivingLicenseApplication(int ApplicationID, int LicenseClassID)
         {
             int LocalDrivingLicenseApplicationID = -1;

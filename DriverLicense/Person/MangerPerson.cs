@@ -16,20 +16,62 @@ namespace DriverLicense
 {
     public partial class MangerPerson : Form
     {
-        private static DataTable _dtAllPersons = clsPerson.GetAllPeople();
 
-        private DataTable _dtPeople = _dtAllPersons.DefaultView.ToTable(false, "PersonID", "NationalNo",
+        /*private void LoadCurrentPage()
+        {
+            _dtAllPersons = clsPerson.GetAllPeople2(_currentPage, _PAGE_SIZE);
+            _dtPeople = _dtAllPersons.DefaultView.ToTable(false, "PersonID", "NationalNo",
                                                   "FirstName", "SecondName", "ThirdName", "LastName",
                                                   "Gendercaption", "BirthDate", "CountryName",
                                                   "Phone", "Email");
-       
-        private int _currentPage = 1;
+            if (_dtAllPersons.Rows.Count == 0)
+            {
+                dgvAllPerson.DataSource = null;
+                lblPageInfo.Text = "0 / 0";
+                return;
+            }
+            // 2) Total Rows
+            int totalRows = Convert.ToInt32(_dtAllPersons.Rows[0]["TotalRows"]);
+            int totalPages = (int)Math.Ceiling((double)totalRows / _PAGE_SIZE);
+            dgvAllPerson.DataSource = _dtPeople;
+            lblRecords.Text = totalRows.ToString();
+
+            // 4) تحديث Label
+            lblPageInfo.Text = $"{_currentPage} \\ {totalPages}";
+
+            // 5) تفعيل أو تعطيل الأزرار
+            btnPrevious.Enabled = (_currentPage > 1);
+            btnNext.Enabled = (_currentPage < totalPages);
+        }*/
+
+        private static int _currentPage = 1;
         private const int _PAGE_SIZE = 60;
-        
-        private void LoadCurrentPage()
+        private static DataTable _dtAllPersons;
+        private DataTable _dtPeople;
+        private int _totalPages = 0;
+        private int _totalRows = 0;
+    
+        private void LoadCurrentPage2()
         {
-            clsUtil.LoadDataPage(_dtPeople, dgvAllPerson,_currentPage,_PAGE_SIZE,
-               lblPageInfo, btnPrevious, btnNext);
+            _dtAllPersons = clsPerson.GetAllPeople2(_currentPage, _PAGE_SIZE);
+            _dtPeople = _dtAllPersons.DefaultView.ToTable(false, "PersonID", "NationalNo",
+                                                  "FirstName", "SecondName", "ThirdName", "LastName",
+                                                  "Gendercaption", "BirthDate", "CountryName",
+                                                  "Phone", "Email");
+
+             clsUtil.LoadDataPage2(_dtAllPersons, dgvAllPerson, _currentPage, _PAGE_SIZE,
+                                   lblPageInfo, btnPrevious, btnNext,ref _totalRows, ref _totalPages);
+            
+            dgvAllPerson.DataSource = _dtPeople;
+            lblRecords.Text = _totalRows.ToString();
+
+            if (_totalPages <= 1)
+            {
+                btnPrevious.Visible = false;
+                lblPageInfo.Visible = false;
+                btnNext.Visible = false;
+            }
+
         }
 
         private void _PerpareComboBox()
@@ -60,9 +102,9 @@ namespace DriverLicense
         {
             _PerpareComboBox();
 
-            LoadCurrentPage();
+            LoadCurrentPage2();
+       
             CbFilter.SelectedIndex = 0; // Set default filter to "Non"
-            lblRecords.Text = _dtAllPersons.Rows.Count.ToString();
             if (dgvAllPerson.Rows.Count > 0)
             {
                 dgvAllPerson.DefaultCellStyle.Font = new Font("Segoe UI", 10, FontStyle.Regular);
@@ -127,13 +169,13 @@ namespace DriverLicense
         private void btnPrevious_Click(object sender, EventArgs e)
         {
             _currentPage--;
-            LoadCurrentPage();
+            LoadCurrentPage2();
         }
 
         private void btnNext_Click(object sender, EventArgs e)
         {
             _currentPage++;
-            LoadCurrentPage();
+            LoadCurrentPage2();
         }
 
         private void BtnClose_Click(object sender, EventArgs e)
@@ -291,7 +333,7 @@ namespace DriverLicense
             {
                 _dtPeople.DefaultView.RowFilter = "";
 
-                LoadCurrentPage(); 
+                LoadCurrentPage2(); 
                 btnPrevious.Visible = true;
                 btnNext.Visible = true;
                 lblRecords.Text = _dtPeople.Rows.Count.ToString();
@@ -323,5 +365,6 @@ namespace DriverLicense
             MessageBox.Show("this feature is not implemented yet.", "Not Implemented", MessageBoxButtons.OK, MessageBoxIcon.Warning);
         }
 
+       
     }
 }

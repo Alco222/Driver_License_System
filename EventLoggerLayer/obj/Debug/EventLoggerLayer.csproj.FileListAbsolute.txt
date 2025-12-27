@@ -1,0 +1,6 @@
+C:\Users\Alco\Downloads\New folder (2)\Cours 19\Poject Vrie Using\AppDVLDvelopeLastV - Working Version\EventLoggerLayer\bin\Debug\EventLoggerLayer.dll
+C:\Users\Alco\Downloads\New folder (2)\Cours 19\Poject Vrie Using\AppDVLDvelopeLastV - Working Version\EventLoggerLayer\bin\Debug\EventLoggerLayer.pdb
+C:\Users\Alco\Downloads\New folder (2)\Cours 19\Poject Vrie Using\AppDVLDvelopeLastV - Working Version\EventLoggerLayer\obj\Debug\EventLoggerLayer.csproj.AssemblyReference.cache
+C:\Users\Alco\Downloads\New folder (2)\Cours 19\Poject Vrie Using\AppDVLDvelopeLastV - Working Version\EventLoggerLayer\obj\Debug\EventLoggerLayer.csproj.CoreCompileInputs.cache
+C:\Users\Alco\Downloads\New folder (2)\Cours 19\Poject Vrie Using\AppDVLDvelopeLastV - Working Version\EventLoggerLayer\obj\Debug\EventLoggerLayer.dll
+C:\Users\Alco\Downloads\New folder (2)\Cours 19\Poject Vrie Using\AppDVLDvelopeLastV - Working Version\EventLoggerLayer\obj\Debug\EventLoggerLayer.pdb

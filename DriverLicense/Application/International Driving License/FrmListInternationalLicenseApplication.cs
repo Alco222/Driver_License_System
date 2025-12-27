@@ -17,12 +17,27 @@ namespace DriverLicense
 
         DataTable _dtAllInternational;
         private int _currentPage = 1;
-        private const int PAGE_SIZE = 60;
+        private const int _PAGE_SIZE = 60;
+        private int _totalPages = 0;
+        private int _totalRows = 0;
 
         private void LoadCurrentPage()
         {
-            clsUtil.LoadDataPage(_dtAllInternational, dgvInternationalLIcense, _currentPage, PAGE_SIZE,
-               lblPageInfo, btnPrevious, btnNext);
+            _dtAllInternational = clsInternationalLicense.GetAllInternationalLicense2(_currentPage, _PAGE_SIZE);
+            clsUtil.LoadDataPage2(_dtAllInternational, dgvInternationalLIcense, _currentPage, _PAGE_SIZE,
+               lblPageInfo, btnPrevious, btnNext, ref _totalRows,ref _totalPages);
+
+            dgvInternationalLIcense.DataSource = _dtAllInternational;
+            dgvInternationalLIcense.Columns.RemoveAt(7); // Remove the 8th column (index 7)
+            lblRecords.Text = _totalRows.ToString();
+
+            if (_totalPages <= 1)
+            {
+                btnPrevious.Visible = false;
+                lblPageInfo.Visible = false;
+                btnNext.Visible = false;
+            }
+
         }
 
         public FrmListInternationalLicenseApplication()
@@ -32,10 +47,8 @@ namespace DriverLicense
 
         private void FrmListInternationalLicenseApplication_Load(object sender, EventArgs e)
         {
-            _dtAllInternational = clsInternationalLicense.GetAllInternationalLicense();
             LoadCurrentPage();
             CbFilter.SelectedIndex = 0; // Default to "All" filter
-            lblRecords.Text = _dtAllInternational.Rows.Count.ToString();
             if(dgvInternationalLIcense.Rows.Count >0)
             {
                 dgvInternationalLIcense.DefaultCellStyle.Font = new Font("Segoe UI", 10, FontStyle.Regular);

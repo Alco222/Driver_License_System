@@ -141,13 +141,11 @@ namespace DriverLicenseBusinessLayer
         }
 
         public bool Cancel()
-
         {
             return clsApplicationData.UpdateStatus(ApplicationID, 2);
         }
 
         public bool SetComplete()
-
         {
             return clsApplicationData.UpdateStatus(ApplicationID, 3);
         }
@@ -216,6 +214,7 @@ namespace DriverLicenseBusinessLayer
         {
             return clsApplicationData.IsAgeValidForLicenseClass( PersonAge,LicenseClassID);
         }*/
+       
         public static bool HasPassedAllTest(int LocalDrivingLicenseApplicationID)
         {
             return clsApplicationData.GetCountPassedTest(LocalDrivingLicenseApplicationID);

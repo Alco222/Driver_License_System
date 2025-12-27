@@ -156,6 +156,11 @@ namespace DriverLicenseBusinessLayer
             return clsLocalDrivingLicenseApplicationData.GetAllLocalDrivingLicenseApplications();
         }
 
+        public static DataTable GetAllLocalDrivingLicenseApplications2(int currentPage, int PAGE_SIZE)
+        {
+            return clsLocalDrivingLicenseApplicationData.GetAllLocalDrivingLicenseApplications2(currentPage,PAGE_SIZE);
+        }
+
         public bool Delete()
         {
             bool IsLocalDrivingApplicationDeleted = false;

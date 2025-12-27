@@ -14,10 +14,6 @@ using static System.Windows.Forms.VisualStyles.VisualStyleElement.ListView;
 
 namespace DriverLicense
 {
-    //Declare a delegate.
-    //string FistName, string SecondName, string ThirdName, string LastName,
-    //   string NationalNo, short Gender, string Email, string Address, DateTime BirthDate,
-    //   string Phone, string Country, string PerImage
     public partial class FrmAddEditPersonInfo : Form
     {
 
@@ -33,16 +29,16 @@ namespace DriverLicense
         {
             InitializeComponent();
             _PersonID = PersonID;
-             controlAddEditPersoneInfo2.SetPersonID(_PersonID);
+            controlAddEditPersoneInfo1.SetPersonID(_PersonID);
         }
 
-        private void controlAddEditPersoneInfo2_OnSendPersonInformationComplete(object sender, ControlAddEditPersoneInfo.sendPersonInformationCompleteEventArgs e)
+        private void controlAddEditPersoneInfo1_OnSendPersonInformationComplete(object sender, ControlAddEditPersoneInfo.sendPersonInformationCompleteEventArgs e)
         {
             DataBack?.Invoke(this, e.PersonID);
             lblPersonID.Text = e.PersonID.ToString();
             ctrCustormerHeaderForm1.TitleText = e.ModeString.ToString();
         }
 
-       
+
     }
 }

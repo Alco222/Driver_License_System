@@ -89,7 +89,11 @@ namespace DriverLicenseBusinessLayer
         public static DataTable GetAllDrivers()
         {
             return clsDriverData.GetAllDrivers();
+        }
 
+        public static DataTable GetAllDrivers2(int currentPage, int PAGE_SIZE)
+        {
+            return clsDriverData.GetAllDrivers2(currentPage,PAGE_SIZE);
         }
 
         public bool Save()
