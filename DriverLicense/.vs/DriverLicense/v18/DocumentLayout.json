@@ -1,0 +1,1029 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\users\\manageuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|solutionrelative:users\\manageuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|c:\\users\\alco\\onedrive\\documents\\github\\driver_license_system\\driverlicense\\users\\frmshowuserdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|solutionrelative:users\\frmshowuserdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|c:\\users\\alco\\onedrive\\documents\\github\\driver_license_system\\driverlicense\\users\\frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|solutionrelative:users\\frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|c:\\users\\alco\\onedrive\\documents\\github\\driver_license_system\\driverlicense\\users\\frmaddedituser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|solutionrelative:users\\frmaddedituser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|c:\\users\\alco\\onedrive\\documents\\github\\driver_license_system\\driverlicense\\tests\\test types\\mangetesttypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|solutionrelative:tests\\test types\\mangetesttypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\users\\controles\\controleuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|solutionrelative:users\\controles\\controleuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|c:\\users\\alco\\onedrive\\documents\\github\\driver_license_system\\driverlicense\\tests\\test types\\frmedittesttypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|solutionrelative:tests\\test types\\frmedittesttypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|c:\\users\\alco\\onedrive\\documents\\github\\driver_license_system\\driverlicense\\tests\\test appointments\\managetestapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|solutionrelative:tests\\test appointments\\managetestapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|c:\\users\\alco\\onedrive\\documents\\github\\driver_license_system\\driverlicense\\tests\\test appointments\\frmtiketest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|solutionrelative:tests\\test appointments\\frmtiketest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|c:\\users\\alco\\onedrive\\documents\\github\\driver_license_system\\driverlicense\\tests\\test appointments\\controles\\controltaketest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|solutionrelative:tests\\test appointments\\controles\\controltaketest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|c:\\users\\alco\\onedrive\\documents\\github\\driver_license_system\\driverlicense\\tests\\test appointments\\controles\\controlescheduletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|solutionrelative:tests\\test appointments\\controles\\controlescheduletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|c:\\users\\alco\\onedrive\\documents\\github\\driver_license_system\\driverlicense\\tests\\test appointments\\frmscheduletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|solutionrelative:tests\\test appointments\\frmscheduletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\person\\mangerperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|solutionrelative:person\\mangerperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\person\\frmpersoninformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|solutionrelative:person\\frmpersoninformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\person\\frmaddeditpersoninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|solutionrelative:person\\frmaddeditpersoninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|c:\\users\\alco\\onedrive\\documents\\github\\driver_license_system\\driverlicense\\licenses\\liscenselocal\\frmissuedriverlicensefirsttime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|solutionrelative:licenses\\liscenselocal\\frmissuedriverlicensefirsttime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|c:\\users\\alco\\onedrive\\documents\\github\\driver_license_system\\driverlicense\\licenses\\liscenselocal\\frmshowlicensedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|solutionrelative:licenses\\liscenselocal\\frmshowlicensedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|c:\\users\\alco\\onedrive\\documents\\github\\driver_license_system\\driverlicense\\licenses\\liscenselocal\\frmlocaldrivinglicenseapplicationinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|solutionrelative:licenses\\liscenselocal\\frmlocaldrivinglicenseapplicationinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|c:\\users\\alco\\onedrive\\documents\\github\\driver_license_system\\driverlicense\\licenses\\liscenselocal\\controles\\controlelocaldrivinglicensewithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|solutionrelative:licenses\\liscenselocal\\controles\\controlelocaldrivinglicensewithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|c:\\users\\alco\\onedrive\\documents\\github\\driver_license_system\\driverlicense\\licenses\\liscenselocal\\controles\\controldrivinglicensedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|solutionrelative:licenses\\liscenselocal\\controles\\controldrivinglicensedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|c:\\users\\alco\\onedrive\\documents\\github\\driver_license_system\\driverlicense\\licenses\\frmshowpersonlicensehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|solutionrelative:licenses\\frmshowpersonlicensehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|c:\\users\\alco\\onedrive\\documents\\github\\driver_license_system\\driverlicense\\licenses\\controles\\controldriverlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|solutionrelative:licenses\\controles\\controldriverlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|c:\\users\\alco\\onedrive\\documents\\github\\driver_license_system\\driverlicense\\licenses\\licenseinternational\\controles\\controledrivinglicenseinternational.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|solutionrelative:licenses\\licenseinternational\\controles\\controledrivinglicenseinternational.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|c:\\users\\alco\\onedrive\\documents\\github\\driver_license_system\\driverlicense\\licenses\\licenseinternational\\frmshowdriverinternationallicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|solutionrelative:licenses\\licenseinternational\\frmshowdriverinternationallicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|c:\\users\\alco\\onedrive\\documents\\github\\driver_license_system\\driverlicense\\licenses\\detain license\\frmdetainlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|solutionrelative:licenses\\detain license\\frmdetainlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|c:\\users\\alco\\onedrive\\documents\\github\\driver_license_system\\driverlicense\\drivers\\frmdriverlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|solutionrelative:drivers\\frmdriverlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|c:\\users\\alco\\onedrive\\documents\\github\\driver_license_system\\driverlicense\\customesheaderform\\ctrcustormerheaderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|solutionrelative:customesheaderform\\ctrcustormerheaderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|c:\\users\\alco\\onedrive\\documents\\github\\driver_license_system\\driverlicense\\application\\replace lost or demage license\\frmreplacementfordamagedorlostlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|solutionrelative:application\\replace lost or demage license\\frmreplacementfordamagedorlostlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|c:\\users\\alco\\onedrive\\documents\\github\\driver_license_system\\driverlicense\\application\\renew local drinving license\\frmrenewlocaldrivinglicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|solutionrelative:application\\renew local drinving license\\frmrenewlocaldrivinglicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|c:\\users\\alco\\onedrive\\documents\\github\\driver_license_system\\driverlicense\\application\\release detain license\\managedetainlicenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|solutionrelative:application\\release detain license\\managedetainlicenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|c:\\users\\alco\\onedrive\\documents\\github\\driver_license_system\\driverlicense\\application\\release detain license\\frmreleasedetainlicenseapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|solutionrelative:application\\release detain license\\frmreleasedetainlicenseapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|c:\\users\\alco\\onedrive\\documents\\github\\driver_license_system\\driverlicense\\application\\local driving license\\frmaddeditapplicationdvl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|solutionrelative:application\\local driving license\\frmaddeditapplicationdvl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\application\\local driving license\\manageapplicationdvl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|solutionrelative:application\\local driving license\\manageapplicationdvl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|c:\\users\\alco\\onedrive\\documents\\github\\driver_license_system\\driverlicense\\application\\local driving license\\controles\\ctrldrivinglicenseapplicationinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|solutionrelative:application\\local driving license\\controles\\ctrldrivinglicenseapplicationinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|c:\\users\\alco\\onedrive\\documents\\github\\driver_license_system\\driverlicense\\application\\controles\\ctrlapplicationbasicinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|solutionrelative:application\\controles\\ctrlapplicationbasicinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|c:\\users\\alco\\onedrive\\documents\\github\\driver_license_system\\driverlicense\\application\\application types\\manageapplicationtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|solutionrelative:application\\application types\\manageapplicationtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|c:\\users\\alco\\onedrive\\documents\\github\\driver_license_system\\driverlicense\\application\\application types\\frmupdateapplicationtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|solutionrelative:application\\application types\\frmupdateapplicationtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|c:\\users\\alco\\onedrive\\documents\\github\\driver_license_system\\driverlicense\\application\\international driving license\\frmlistinternationallicenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|solutionrelative:application\\international driving license\\frmlistinternationallicenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|c:\\users\\alco\\onedrive\\documents\\github\\driver_license_system\\driverlicense\\application\\international driving license\\frmnewinternationallicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|solutionrelative:application\\international driving license\\frmnewinternationallicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|c:\\users\\alco\\onedrive\\documents\\github\\driver_license_system\\driverlicense\\person\\controles\\controladdeditpersoneinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|solutionrelative:person\\controles\\controladdeditpersoneinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\person\\controles\\controlepersondetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|solutionrelative:person\\controles\\controlepersondetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\person\\controles\\ctrlpersoncardwithfilter1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|solutionrelative:person\\controles\\ctrlpersoncardwithfilter1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\person\\frmpersoninformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|solutionrelative:person\\frmpersoninformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\person\\frmaddeditpersoninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|solutionrelative:person\\frmaddeditpersoninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\person\\controles\\controlepersondetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|solutionrelative:person\\controles\\controlepersondetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\person\\mangerperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|solutionrelative:person\\mangerperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF529C01-77D2-4BDF-8464-27F60D0AA9EF}|..\\DriverLicenseDataAccessLayer\\DriverLicenseDataAccessLayer.csproj|C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\driverlicensedataaccesslayer\\dataaccesssettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\person\\controles\\controladdeditpersoneinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|solutionrelative:person\\controles\\controladdeditpersoneinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\users\\manageuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|solutionrelative:users\\manageuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\global classes\\clsvalidatoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|solutionrelative:global classes\\clsvalidatoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\global classes\\util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|solutionrelative:global classes\\util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\global classes\\loggedinuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|solutionrelative:global classes\\loggedinuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF529C01-77D2-4BDF-8464-27F60D0AA9EF}|..\\DriverLicenseDataAccessLayer\\DriverLicenseDataAccessLayer.csproj|c:\\users\\alco\\onedrive\\documents\\github\\driver_license_system\\driverlicensedataaccesslayer\\clsapplicationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF529C01-77D2-4BDF-8464-27F60D0AA9EF}|..\\DriverLicenseDataAccessLayer\\DriverLicenseDataAccessLayer.csproj|c:\\users\\alco\\onedrive\\documents\\github\\driver_license_system\\driverlicensedataaccesslayer\\clspersondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\application\\local driving license\\manageapplicationdvl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|solutionrelative:application\\local driving license\\manageapplicationdvl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\users\\frmshowuserdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|solutionrelative:users\\frmshowuserdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\login\\frmloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|solutionrelative:login\\frmloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FEFEEF7-E24F-4B64-A457-8DE7A4D65764}|..\\DriverLicenseBusinessLayer\\DriverLicenseBusinessLayer.csproj|c:\\users\\alco\\onedrive\\documents\\github\\driver_license_system\\driverlicensebusinesslayer\\clsusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|solutionrelative:login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B60F6B14-A86B-4631-8A9A-9C36E42B7924}|DriverLicense.csproj|solutionrelative:login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ManageUser.cs",
+              "DocumentMoniker": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Users\\ManageUser.cs",
+              "RelativeDocumentMoniker": "Users\\ManageUser.cs",
+              "ToolTip": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Users\\ManageUser.cs",
+              "RelativeToolTip": "Users\\ManageUser.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T12:26:34.119Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmShowUserDetails.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Users\\frmShowUserDetails.cs",
+              "RelativeDocumentMoniker": "Users\\frmShowUserDetails.cs",
+              "ToolTip": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Users\\frmShowUserDetails.cs [Design]",
+              "RelativeToolTip": "Users\\frmShowUserDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T20:00:21.014Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmChangePassword.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Users\\FrmChangePassword.cs",
+              "RelativeDocumentMoniker": "Users\\FrmChangePassword.cs",
+              "ToolTip": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Users\\FrmChangePassword.cs [Design]",
+              "RelativeToolTip": "Users\\FrmChangePassword.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T20:00:15.971Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmAddEditUser.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Users\\FrmAddEditUser.cs",
+              "RelativeDocumentMoniker": "Users\\FrmAddEditUser.cs",
+              "ToolTip": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Users\\FrmAddEditUser.cs [Design]",
+              "RelativeToolTip": "Users\\FrmAddEditUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T19:59:49.244Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ManageUser.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Users\\ManageUser.cs",
+              "RelativeDocumentMoniker": "Users\\ManageUser.cs",
+              "ToolTip": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Users\\ManageUser.cs [Design]",
+              "RelativeToolTip": "Users\\ManageUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T12:26:34.704Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MangeTestTypes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Tests\\Test Types\\MangeTestTypes.cs",
+              "RelativeDocumentMoniker": "Tests\\Test Types\\MangeTestTypes.cs",
+              "ToolTip": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Tests\\Test Types\\MangeTestTypes.cs [Design]",
+              "RelativeToolTip": "Tests\\Test Types\\MangeTestTypes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T19:59:05.872Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmEditTestTypes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Tests\\Test Types\\FrmEditTestTypes.cs",
+              "RelativeDocumentMoniker": "Tests\\Test Types\\FrmEditTestTypes.cs",
+              "ToolTip": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Tests\\Test Types\\FrmEditTestTypes.cs [Design]",
+              "RelativeToolTip": "Tests\\Test Types\\FrmEditTestTypes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T19:59:04.033Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ControleUserInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Users\\Controles\\ControleUserInfo.cs",
+              "RelativeDocumentMoniker": "Users\\Controles\\ControleUserInfo.cs",
+              "ToolTip": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Users\\Controles\\ControleUserInfo.cs [Design]",
+              "RelativeToolTip": "Users\\Controles\\ControleUserInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T12:26:34.709Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ManageTestApplication.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Tests\\Test Appointments\\ManageTestApplication.cs",
+              "RelativeDocumentMoniker": "Tests\\Test Appointments\\ManageTestApplication.cs",
+              "ToolTip": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Tests\\Test Appointments\\ManageTestApplication.cs [Design]",
+              "RelativeToolTip": "Tests\\Test Appointments\\ManageTestApplication.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T19:58:55.83Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmTikeTest.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Tests\\Test Appointments\\FrmTikeTest.cs",
+              "RelativeDocumentMoniker": "Tests\\Test Appointments\\FrmTikeTest.cs",
+              "ToolTip": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Tests\\Test Appointments\\FrmTikeTest.cs [Design]",
+              "RelativeToolTip": "Tests\\Test Appointments\\FrmTikeTest.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T19:58:51.482Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ControlTakeTest.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Tests\\Test Appointments\\controles\\ControlTakeTest.cs",
+              "RelativeDocumentMoniker": "Tests\\Test Appointments\\controles\\ControlTakeTest.cs",
+              "ToolTip": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Tests\\Test Appointments\\controles\\ControlTakeTest.cs [Design]",
+              "RelativeToolTip": "Tests\\Test Appointments\\controles\\ControlTakeTest.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T19:58:46.455Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ControleScheduleTests.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Tests\\Test Appointments\\controles\\ControleScheduleTests.cs",
+              "RelativeDocumentMoniker": "Tests\\Test Appointments\\controles\\ControleScheduleTests.cs",
+              "ToolTip": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Tests\\Test Appointments\\controles\\ControleScheduleTests.cs [Design]",
+              "RelativeToolTip": "Tests\\Test Appointments\\controles\\ControleScheduleTests.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T19:58:41.829Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmScheduleTest.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Tests\\Test Appointments\\FrmScheduleTest.cs",
+              "RelativeDocumentMoniker": "Tests\\Test Appointments\\FrmScheduleTest.cs",
+              "ToolTip": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Tests\\Test Appointments\\FrmScheduleTest.cs [Design]",
+              "RelativeToolTip": "Tests\\Test Appointments\\FrmScheduleTest.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T19:58:35.07Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmIssueDriverLicenseFirstTime.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Licenses\\LiscenseLocal\\FrmIssueDriverLicenseFirstTime.cs",
+              "RelativeDocumentMoniker": "Licenses\\LiscenseLocal\\FrmIssueDriverLicenseFirstTime.cs",
+              "ToolTip": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Licenses\\LiscenseLocal\\FrmIssueDriverLicenseFirstTime.cs [Design]",
+              "RelativeToolTip": "Licenses\\LiscenseLocal\\FrmIssueDriverLicenseFirstTime.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T19:57:42.848Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmAddEditPersonInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Person\\FrmAddEditPersonInfo.cs",
+              "RelativeDocumentMoniker": "Person\\FrmAddEditPersonInfo.cs",
+              "ToolTip": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Person\\FrmAddEditPersonInfo.cs [Design]",
+              "RelativeToolTip": "Person\\FrmAddEditPersonInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T12:26:34.72Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmPersonInformation.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Person\\FrmPersonInformation.cs",
+              "RelativeDocumentMoniker": "Person\\FrmPersonInformation.cs",
+              "ToolTip": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Person\\FrmPersonInformation.cs [Design]",
+              "RelativeToolTip": "Person\\FrmPersonInformation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T11:24:42.65Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MangerPerson.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Person\\MangerPerson.cs",
+              "RelativeDocumentMoniker": "Person\\MangerPerson.cs",
+              "ToolTip": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Person\\MangerPerson.cs [Design]",
+              "RelativeToolTip": "Person\\MangerPerson.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T12:50:34.319Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmShowLicenseDetails.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Licenses\\LiscenseLocal\\FrmShowLicenseDetails.cs",
+              "RelativeDocumentMoniker": "Licenses\\LiscenseLocal\\FrmShowLicenseDetails.cs",
+              "ToolTip": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Licenses\\LiscenseLocal\\FrmShowLicenseDetails.cs [Design]",
+              "RelativeToolTip": "Licenses\\LiscenseLocal\\FrmShowLicenseDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T19:57:56.474Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FrmLocalDrivingLicenseApplicationInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Licenses\\LiscenseLocal\\FrmLocalDrivingLicenseApplicationInfo.cs",
+              "RelativeDocumentMoniker": "Licenses\\LiscenseLocal\\FrmLocalDrivingLicenseApplicationInfo.cs",
+              "ToolTip": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Licenses\\LiscenseLocal\\FrmLocalDrivingLicenseApplicationInfo.cs [Design]",
+              "RelativeToolTip": "Licenses\\LiscenseLocal\\FrmLocalDrivingLicenseApplicationInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T19:57:54.582Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "controleLocalDrivingLicenseWithFilter.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Licenses\\LiscenseLocal\\Controles\\controleLocalDrivingLicenseWithFilter.cs",
+              "RelativeDocumentMoniker": "Licenses\\LiscenseLocal\\Controles\\controleLocalDrivingLicenseWithFilter.cs",
+              "ToolTip": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Licenses\\LiscenseLocal\\Controles\\controleLocalDrivingLicenseWithFilter.cs [Design]",
+              "RelativeToolTip": "Licenses\\LiscenseLocal\\Controles\\controleLocalDrivingLicenseWithFilter.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T19:57:47.942Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ControlDrivingLicenseDetails.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Licenses\\LiscenseLocal\\Controles\\ControlDrivingLicenseDetails.cs",
+              "RelativeDocumentMoniker": "Licenses\\LiscenseLocal\\Controles\\ControlDrivingLicenseDetails.cs",
+              "ToolTip": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Licenses\\LiscenseLocal\\Controles\\ControlDrivingLicenseDetails.cs [Design]",
+              "RelativeToolTip": "Licenses\\LiscenseLocal\\Controles\\ControlDrivingLicenseDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T19:57:46.328Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FrmShowPersonLIcenseHistory.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Licenses\\FrmShowPersonLIcenseHistory.cs",
+              "RelativeDocumentMoniker": "Licenses\\FrmShowPersonLIcenseHistory.cs",
+              "ToolTip": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Licenses\\FrmShowPersonLIcenseHistory.cs [Design]",
+              "RelativeToolTip": "Licenses\\FrmShowPersonLIcenseHistory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T19:57:07.675Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ControleDrivingLicenseInternational.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Licenses\\LicenseInternational\\Controles\\ControleDrivingLicenseInternational.cs",
+              "RelativeDocumentMoniker": "Licenses\\LicenseInternational\\Controles\\ControleDrivingLicenseInternational.cs",
+              "ToolTip": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Licenses\\LicenseInternational\\Controles\\ControleDrivingLicenseInternational.cs [Design]",
+              "RelativeToolTip": "Licenses\\LicenseInternational\\Controles\\ControleDrivingLicenseInternational.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T19:56:59.73Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FrmShowDriverInternationalLicenseInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Licenses\\LicenseInternational\\FrmShowDriverInternationalLicenseInfo.cs",
+              "RelativeDocumentMoniker": "Licenses\\LicenseInternational\\FrmShowDriverInternationalLicenseInfo.cs",
+              "ToolTip": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Licenses\\LicenseInternational\\FrmShowDriverInternationalLicenseInfo.cs [Design]",
+              "RelativeToolTip": "Licenses\\LicenseInternational\\FrmShowDriverInternationalLicenseInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T19:56:56.402Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ControlDriverLicense.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Licenses\\Controles\\ControlDriverLicense.cs",
+              "RelativeDocumentMoniker": "Licenses\\Controles\\ControlDriverLicense.cs",
+              "ToolTip": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Licenses\\Controles\\ControlDriverLicense.cs [Design]",
+              "RelativeToolTip": "Licenses\\Controles\\ControlDriverLicense.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T19:56:36.616Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FrmDetainLIcense.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Licenses\\Detain License\\FrmDetainLIcense.cs",
+              "RelativeDocumentMoniker": "Licenses\\Detain License\\FrmDetainLIcense.cs",
+              "ToolTip": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Licenses\\Detain License\\FrmDetainLIcense.cs [Design]",
+              "RelativeToolTip": "Licenses\\Detain License\\FrmDetainLIcense.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T19:56:46.439Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FrmDriverList.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Drivers\\FrmDriverList.cs",
+              "RelativeDocumentMoniker": "Drivers\\FrmDriverList.cs",
+              "ToolTip": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Drivers\\FrmDriverList.cs [Design]",
+              "RelativeToolTip": "Drivers\\FrmDriverList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T19:56:25.444Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ctrCustormerHeaderForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\CustomesHeaderForm\\ctrCustormerHeaderForm.cs",
+              "RelativeDocumentMoniker": "CustomesHeaderForm\\ctrCustormerHeaderForm.cs",
+              "ToolTip": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\CustomesHeaderForm\\ctrCustormerHeaderForm.cs [Design]",
+              "RelativeToolTip": "CustomesHeaderForm\\ctrCustormerHeaderForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T19:56:19.391Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FrmReplacementForDamagedOrLostLicense.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Application\\Replace Lost or Demage License\\FrmReplacementForDamagedOrLostLicense.cs",
+              "RelativeDocumentMoniker": "Application\\Replace Lost or Demage License\\FrmReplacementForDamagedOrLostLicense.cs",
+              "ToolTip": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Application\\Replace Lost or Demage License\\FrmReplacementForDamagedOrLostLicense.cs [Design]",
+              "RelativeToolTip": "Application\\Replace Lost or Demage License\\FrmReplacementForDamagedOrLostLicense.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T19:56:10.952Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FrmRenewLocalDrivingLIcense.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Application\\Renew Local Drinving LIcense\\FrmRenewLocalDrivingLIcense.cs",
+              "RelativeDocumentMoniker": "Application\\Renew Local Drinving LIcense\\FrmRenewLocalDrivingLIcense.cs",
+              "ToolTip": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Application\\Renew Local Drinving LIcense\\FrmRenewLocalDrivingLIcense.cs [Design]",
+              "RelativeToolTip": "Application\\Renew Local Drinving LIcense\\FrmRenewLocalDrivingLIcense.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T19:56:03.161Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ManageDetainLicenses.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Application\\Release Detain LIcense\\ManageDetainLicenses.cs",
+              "RelativeDocumentMoniker": "Application\\Release Detain LIcense\\ManageDetainLicenses.cs",
+              "ToolTip": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Application\\Release Detain LIcense\\ManageDetainLicenses.cs [Design]",
+              "RelativeToolTip": "Application\\Release Detain LIcense\\ManageDetainLicenses.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T19:55:51.914Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FrmReleaseDetainLicenseApp.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Application\\Release Detain LIcense\\FrmReleaseDetainLicenseApp.cs",
+              "RelativeDocumentMoniker": "Application\\Release Detain LIcense\\FrmReleaseDetainLicenseApp.cs",
+              "ToolTip": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Application\\Release Detain LIcense\\FrmReleaseDetainLicenseApp.cs [Design]",
+              "RelativeToolTip": "Application\\Release Detain LIcense\\FrmReleaseDetainLicenseApp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T19:55:44.206Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FrmAddEditApplicationDVL.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Application\\Local Driving License\\FrmAddEditApplicationDVL.cs",
+              "RelativeDocumentMoniker": "Application\\Local Driving License\\FrmAddEditApplicationDVL.cs",
+              "ToolTip": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Application\\Local Driving License\\FrmAddEditApplicationDVL.cs [Design]",
+              "RelativeToolTip": "Application\\Local Driving License\\FrmAddEditApplicationDVL.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T19:55:18.945Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ctrlDrivingLicenseApplicationInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Application\\Local Driving License\\controles\\ctrlDrivingLicenseApplicationInfo.cs",
+              "RelativeDocumentMoniker": "Application\\Local Driving License\\controles\\ctrlDrivingLicenseApplicationInfo.cs",
+              "ToolTip": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Application\\Local Driving License\\controles\\ctrlDrivingLicenseApplicationInfo.cs [Design]",
+              "RelativeToolTip": "Application\\Local Driving License\\controles\\ctrlDrivingLicenseApplicationInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T19:55:16.426Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ctrlApplicationBasicInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Application\\Controles\\ctrlApplicationBasicInfo.cs",
+              "RelativeDocumentMoniker": "Application\\Controles\\ctrlApplicationBasicInfo.cs",
+              "ToolTip": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Application\\Controles\\ctrlApplicationBasicInfo.cs [Design]",
+              "RelativeToolTip": "Application\\Controles\\ctrlApplicationBasicInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T19:55:08.02Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ManageApplicationDVL.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Application\\Local Driving License\\ManageApplicationDVL.cs",
+              "RelativeDocumentMoniker": "Application\\Local Driving License\\ManageApplicationDVL.cs",
+              "ToolTip": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Application\\Local Driving License\\ManageApplicationDVL.cs [Design]",
+              "RelativeToolTip": "Application\\Local Driving License\\ManageApplicationDVL.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T20:48:50.094Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ManageApplicationTypes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Application\\Application Types\\ManageApplicationTypes.cs",
+              "RelativeDocumentMoniker": "Application\\Application Types\\ManageApplicationTypes.cs",
+              "ToolTip": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Application\\Application Types\\ManageApplicationTypes.cs [Design]",
+              "RelativeToolTip": "Application\\Application Types\\ManageApplicationTypes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T19:55:01.204Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "FrmUpdateApplicationTypes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Application\\Application Types\\FrmUpdateApplicationTypes.cs",
+              "RelativeDocumentMoniker": "Application\\Application Types\\FrmUpdateApplicationTypes.cs",
+              "ToolTip": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Application\\Application Types\\FrmUpdateApplicationTypes.cs [Design]",
+              "RelativeToolTip": "Application\\Application Types\\FrmUpdateApplicationTypes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T19:54:59.31Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "FrmListInternationalLicenseApplication.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Application\\International Driving License\\FrmListInternationalLicenseApplication.cs",
+              "RelativeDocumentMoniker": "Application\\International Driving License\\FrmListInternationalLicenseApplication.cs",
+              "ToolTip": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Application\\International Driving License\\FrmListInternationalLicenseApplication.cs [Design]",
+              "RelativeToolTip": "Application\\International Driving License\\FrmListInternationalLicenseApplication.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T19:54:49.857Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "FrmNewInternationalLicense.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Application\\International Driving License\\FrmNewInternationalLicense.cs",
+              "RelativeDocumentMoniker": "Application\\International Driving License\\FrmNewInternationalLicense.cs",
+              "ToolTip": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Application\\International Driving License\\FrmNewInternationalLicense.cs [Design]",
+              "RelativeToolTip": "Application\\International Driving License\\FrmNewInternationalLicense.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T19:54:14.089Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{9a7cebbb-dc5c-4986-bc49-962da46aa506}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ControlAddEditPersoneInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Person\\Controles\\ControlAddEditPersoneInfo.cs",
+              "RelativeDocumentMoniker": "Person\\Controles\\ControlAddEditPersoneInfo.cs",
+              "ToolTip": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Person\\Controles\\ControlAddEditPersoneInfo.cs [Design]",
+              "RelativeToolTip": "Person\\Controles\\ControlAddEditPersoneInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T19:52:24.706Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ControlePersonDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Person\\Controles\\ControlePersonDetails.cs",
+              "RelativeDocumentMoniker": "Person\\Controles\\ControlePersonDetails.cs",
+              "ToolTip": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Person\\Controles\\ControlePersonDetails.cs",
+              "RelativeToolTip": "Person\\Controles\\ControlePersonDetails.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAwwBgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T11:22:11.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ctrlPersonCardWithFilter1.cs",
+              "DocumentMoniker": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Person\\Controles\\ctrlPersonCardWithFilter1.cs",
+              "RelativeDocumentMoniker": "Person\\Controles\\ctrlPersonCardWithFilter1.cs",
+              "ToolTip": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Person\\Controles\\ctrlPersonCardWithFilter1.cs",
+              "RelativeToolTip": "Person\\Controles\\ctrlPersonCardWithFilter1.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAcwCgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T11:31:43.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "FrmPersonInformation.cs",
+              "DocumentMoniker": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Person\\FrmPersonInformation.cs",
+              "RelativeDocumentMoniker": "Person\\FrmPersonInformation.cs",
+              "ToolTip": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Person\\FrmPersonInformation.cs",
+              "RelativeToolTip": "Person\\FrmPersonInformation.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T11:24:49.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "FrmAddEditPersonInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Person\\FrmAddEditPersonInfo.cs",
+              "RelativeDocumentMoniker": "Person\\FrmAddEditPersonInfo.cs",
+              "ToolTip": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Person\\FrmAddEditPersonInfo.cs",
+              "RelativeToolTip": "Person\\FrmAddEditPersonInfo.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T12:26:34.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ControlePersonDetails.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Person\\Controles\\ControlePersonDetails.cs",
+              "RelativeDocumentMoniker": "Person\\Controles\\ControlePersonDetails.cs",
+              "ToolTip": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Person\\Controles\\ControlePersonDetails.cs [Design]",
+              "RelativeToolTip": "Person\\Controles\\ControlePersonDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T11:22:00.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "MangerPerson.cs",
+              "DocumentMoniker": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Person\\MangerPerson.cs",
+              "RelativeDocumentMoniker": "Person\\MangerPerson.cs",
+              "ToolTip": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Person\\MangerPerson.cs",
+              "RelativeToolTip": "Person\\MangerPerson.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAEwLkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T12:50:40.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "DataAccessSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicenseDataAccessLayer\\DataAccessSettings.cs",
+              "RelativeDocumentMoniker": "..\\DriverLicenseDataAccessLayer\\DataAccessSettings.cs",
+              "ToolTip": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicenseDataAccessLayer\\DataAccessSettings.cs",
+              "RelativeToolTip": "..\\DriverLicenseDataAccessLayer\\DataAccessSettings.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T12:26:34.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ControlAddEditPersoneInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Person\\Controles\\ControlAddEditPersoneInfo.cs",
+              "RelativeDocumentMoniker": "Person\\Controles\\ControlAddEditPersoneInfo.cs",
+              "ToolTip": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Person\\Controles\\ControlAddEditPersoneInfo.cs",
+              "RelativeToolTip": "Person\\Controles\\ControlAddEditPersoneInfo.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwPcAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T20:36:09.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "clsValidatoin.cs",
+              "DocumentMoniker": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Global Classes\\clsValidatoin.cs",
+              "RelativeDocumentMoniker": "Global Classes\\clsValidatoin.cs",
+              "ToolTip": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Global Classes\\clsValidatoin.cs",
+              "RelativeToolTip": "Global Classes\\clsValidatoin.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T20:50:39.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "util.cs",
+              "DocumentMoniker": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Global Classes\\util.cs",
+              "RelativeDocumentMoniker": "Global Classes\\util.cs",
+              "ToolTip": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Global Classes\\util.cs",
+              "RelativeToolTip": "Global Classes\\util.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAuwIwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T15:30:21.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "LoggedInUser.cs",
+              "DocumentMoniker": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Global Classes\\LoggedInUser.cs",
+              "RelativeDocumentMoniker": "Global Classes\\LoggedInUser.cs",
+              "ToolTip": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Global Classes\\LoggedInUser.cs",
+              "RelativeToolTip": "Global Classes\\LoggedInUser.cs",
+              "ViewState": "AgIAAPsAAAAAAAAAAAAuwAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T15:30:24.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "clsApplicationData.cs",
+              "DocumentMoniker": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicenseDataAccessLayer\\clsApplicationData.cs",
+              "RelativeDocumentMoniker": "..\\DriverLicenseDataAccessLayer\\clsApplicationData.cs",
+              "ToolTip": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicenseDataAccessLayer\\clsApplicationData.cs",
+              "RelativeToolTip": "..\\DriverLicenseDataAccessLayer\\clsApplicationData.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwBEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T12:26:34.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-05-02T12:26:34.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ManageApplicationDVL.cs",
+              "DocumentMoniker": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Application\\Local Driving License\\ManageApplicationDVL.cs",
+              "RelativeDocumentMoniker": "Application\\Local Driving License\\ManageApplicationDVL.cs",
+              "ToolTip": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Application\\Local Driving License\\ManageApplicationDVL.cs",
+              "RelativeToolTip": "Application\\Local Driving License\\ManageApplicationDVL.cs",
+              "ViewState": "AgIAABUBAAAAAAAAAAAQwBgBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T20:48:54.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "clsPersonData.cs",
+              "DocumentMoniker": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicenseDataAccessLayer\\clsPersonData.cs",
+              "RelativeDocumentMoniker": "..\\DriverLicenseDataAccessLayer\\clsPersonData.cs",
+              "ToolTip": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicenseDataAccessLayer\\clsPersonData.cs",
+              "RelativeToolTip": "..\\DriverLicenseDataAccessLayer\\clsPersonData.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwOIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T13:57:38.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "frmLoading.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Login\\frmLoading.cs",
+              "RelativeDocumentMoniker": "Login\\frmLoading.cs",
+              "ToolTip": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Login\\frmLoading.cs [Design]",
+              "RelativeToolTip": "Login\\frmLoading.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T12:30:13.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "frmShowUserDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Users\\frmShowUserDetails.cs",
+              "RelativeDocumentMoniker": "Users\\frmShowUserDetails.cs",
+              "ToolTip": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Users\\frmShowUserDetails.cs",
+              "RelativeToolTip": "Users\\frmShowUserDetails.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T12:26:34.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "FrmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Login\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "Login\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Login\\FrmLogin.cs [Design]",
+              "RelativeToolTip": "Login\\FrmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T12:30:16.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "FrmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Login\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "Login\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicense\\Login\\FrmLogin.cs",
+              "RelativeToolTip": "Login\\FrmLogin.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAAAJsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T12:31:34.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "clsUsers.cs",
+              "DocumentMoniker": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicenseBusinessLayer\\clsUsers.cs",
+              "RelativeDocumentMoniker": "..\\DriverLicenseBusinessLayer\\clsUsers.cs",
+              "ToolTip": "C:\\Users\\Alco\\OneDrive\\Documents\\GitHub\\Driver_License_System\\DriverLicenseBusinessLayer\\clsUsers.cs",
+              "RelativeToolTip": "..\\DriverLicenseBusinessLayer\\clsUsers.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T21:26:58.019Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

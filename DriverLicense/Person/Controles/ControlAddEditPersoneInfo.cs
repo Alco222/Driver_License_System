@@ -40,7 +40,7 @@ namespace DriverLicense
 
         public event EventHandler<sendPersonInformationCompleteEventArgs> OnSendPersonInformationComplete;
 
-        public void RaisOnSendPersonInformationComplete(int PersonID,string ModeString)
+        public void RaisOnSendPersonInformationComplete(int PersonID,string ModeString) 
         {
             RaisOnSendPersonInformationComplete(new sendPersonInformationCompleteEventArgs(PersonID,ModeString));
         }
@@ -247,7 +247,7 @@ namespace DriverLicense
 
         private void ControlAddEditPersoneInfo_Load(object sender, EventArgs e)
         {
-            // إذا نحن في وقت التصميم (Designer) فلا ننفذ أي كود مرتبط بالـ DB
+            // If we are in Designer mode, we do not execute any code related to the database.
             if (this.DesignMode || LicenseManager.UsageMode == LicenseUsageMode.Designtime)
                 return;
 
