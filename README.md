@@ -39,4 +39,8 @@ Execute the provided SQL Script in your SQL Server instance to create the databa
 
 Update the connection string in DataAccessSettings.cs.
 
+<<<<<<< HEAD
 Open the .sln file in Visual Studio and run the project.
+=======
+Open the .sln file in Visual Studio and run the project.
+>>>>>>> 489af8cc5529720b91a130f4316205b92bf19edc
